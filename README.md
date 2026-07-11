@@ -61,7 +61,7 @@ Tableau Desktop • Dashboard Design • KPI Development • Executive Reporting
 
 ## Repository Contents
 
-- `Executive_Dashboard.twbx`
+- `Executive_Business_Intelligence_Dashboard.twbx`
 - `README.md`
 - `Dashboard.png`
 
