@@ -4,7 +4,7 @@ An interactive executive dashboard built in **Tableau Desktop** for business per
 
 ## Dashboard Preview
 
-[Executive Dashboard](images/dashboard.png)
+[Dashboard](Dashboard.png)
 
 ## Project Overview
 
