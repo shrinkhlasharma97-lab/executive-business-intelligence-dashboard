@@ -67,5 +67,5 @@ Tableau Desktop • Dashboard Design • KPI Development • Executive Reporting
 
 ## Author
 
-**Shrinkhla Sharma**
+Shrinkhla Sharma
 Business Intelligence Analyst
