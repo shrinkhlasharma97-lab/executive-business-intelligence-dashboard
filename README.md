@@ -1,6 +1,6 @@
 # Executive Business Intelligence Dashboard
 
-ExAn interactive Executive Business Intelligence Dashboard built in Tableau Desktop using advanced dashboard actions, parameters, calculated fields, and FIXED LOD expressions to monitor business performance and support executive decision-making.
+An interactive Executive Business Intelligence Dashboard built in Tableau Desktop using advanced dashboard actions, parameters, calculated fields, and FIXED LOD expressions to monitor business performance and support executive decision-making.
 
 ## Dashboard Preview
 
