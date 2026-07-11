@@ -1,6 +1,6 @@
 # Executive Business Intelligence Dashboard
 
-Executive Business Intelligence Dashboard built in Tableau Desktop using advanced dashboard actions, parameters, calculated fields, and FIXED LOD expressions.
+ExAn interactive Executive Business Intelligence Dashboard built in Tableau Desktop using advanced dashboard actions, parameters, calculated fields, and FIXED LOD expressions to monitor business performance and support executive decision-making.
 
 ## Dashboard Preview
 
@@ -67,5 +67,13 @@ Tableau Desktop • Dashboard Design • KPI Development • Executive Reporting
 
 ## Author
 
-Shrinkhla Sharma
+**Shrinkhla Sharma**  
 Business Intelligence Analyst
+
+## Future Enhancements
+
+- Integrate a live SQL data source.
+- Publish the dashboard on Tableau Public.
+- Automate data refresh using Tableau Cloud.
+- Extend the dashboard with predictive analytics.
+- Develop a Power BI version.
