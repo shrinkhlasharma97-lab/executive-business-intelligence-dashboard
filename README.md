@@ -1,6 +1,6 @@
 # Executive Business Intelligence Dashboard
 
-An interactive executive dashboard built in **Tableau Desktop** for business performance monitoring and executive reporting.
+Executive Business Intelligence Dashboard built in Tableau Desktop using advanced dashboard actions, parameters, calculated fields, and FIXED LOD expressions.
 
 ## Dashboard Preview
 
@@ -33,11 +33,37 @@ This dashboard enables stakeholders to monitor business performance through inte
 - Data Visualization
 - Business Intelligence
 
+## Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| Executive Dashboards | 1 |
+| Worksheets | 8 |
+| Calculated Fields | 125 |
+| Dashboard Actions | 3 |
+| FIXED LOD Expressions | 2 |
+| Parameters | 30 |
+
+## Business Value
+
+This dashboard enables business stakeholders to:
+
+- Monitor KPIs from a single executive view.
+- Analyze regional performance.
+- Compare quarterly business trends.
+- Evaluate marketing effectiveness.
+- Track target achievement.
+- Support data-driven decision making through interactive analytics.
+
+  ## Skills Demonstrated
+
+Tableau Desktop • Dashboard Design • KPI Development • Executive Reporting • Calculated Fields • FIXED LOD Expressions • Parameters • Dashboard Actions • Interactive Analytics • Business Intelligence
+
 ## Repository Contents
 
 - `Executive_Dashboard.twbx`
 - `README.md`
-- `images/dashboard.png`
+- `Dashboard.png`
 
 ## Author
 
