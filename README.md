@@ -55,7 +55,7 @@ This dashboard enables business stakeholders to:
 - Track target achievement.
 - Support data-driven decision making through interactive analytics.
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
 Tableau Desktop • Dashboard Design • KPI Development • Executive Reporting • Calculated Fields • FIXED LOD Expressions • Parameters • Dashboard Actions • Interactive Analytics • Business Intelligence
 
